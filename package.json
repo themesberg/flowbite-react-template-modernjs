@@ -24,24 +24,24 @@
     "pre-commit": "npx lint-staged"
   },
   "dependencies": {
-    "@modern-js/runtime": "2.65.5",
+    "@modern-js/runtime": "2.68.3",
     "flowbite-react": "^0.12.2",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
-    "@biomejs/biome": "1.9.4",
-    "@modern-js/app-tools": "2.65.5",
-    "@modern-js/tsconfig": "2.65.5",
-    "@tailwindcss/postcss": "^4.1.4",
-    "@types/jest": "~29.2.6",
-    "@types/node": "~18.11.19",
-    "@types/react": "^18.3.20",
-    "@types/react-dom": "~18.3.6",
-    "lint-staged": "~15.4.3",
+    "@biomejs/biome": "2.1.2",
+    "@modern-js/app-tools": "2.68.3",
+    "@modern-js/tsconfig": "2.68.3",
+    "@tailwindcss/postcss": "^4.1.11",
+    "@types/jest": "~30.0.0",
+    "@types/node": "~24.1.0",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "~19.1.6",
+    "lint-staged": "~16.1.2",
     "rimraf": "^6.0.1",
-    "simple-git-hooks": "^2.12.1",
-    "tailwindcss": "^4.1.4",
-    "typescript": "~5.7.3"
+    "simple-git-hooks": "^2.13.0",
+    "tailwindcss": "^4.1.11",
+    "typescript": "~5.8.3"
   }
 }
